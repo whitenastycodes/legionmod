@@ -264,6 +264,16 @@
 						"unit": ["Republic Commandos"]
 					}
 				}
+			},
+			{
+				"name": "Cody's DC-15a",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1039715244308877871/C2B750E7C33C3A271C963E108BF30583A6C04D84/",
+				"points": 10,
+				"restrictions": {
+					"include": {
+						"unit": ["Commander Cody"]
+					}
+				}
 			}
 		],
 		"Gear": [{
