@@ -1,0 +1,442 @@
+{
+	"units": {
+		"Republic": {
+			"Commander": [{
+					"name": "Mace Windu",
+					"title": "Master Jedi",
+					"image": "http://cloud-3.steamusercontent.com/ugc/1021698230625281429/3C9D0D124008761886003E77A61D804554209CDB/",
+					"size": "small",
+					"type": "Trooper",
+					"points": 200,
+					"speed": 2,
+					"upgrades": {
+						"Force": 3,
+						"Command": 1,
+						"Training": 1
+					},
+					"minis": [{
+						"mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455187825660/20318CF5820801C8D087056BFFF3B448DD1D24C0/",
+						"diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455187825926/3024C576BF271F52A8E09E226B9CE33A850279B5/"
+					}],
+					"commands": [{
+							"name": "This Party's Over",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1021698230625281940/390920829A0807A416D844133830F1BD4AA708BA/",
+							"pip": 1
+						},
+						{
+							"name": "High Jedi General",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1021698230625282871/344CE94B47257366F05F2456247B2039D9C1E353/",
+							"pip": 2
+						},
+						{
+							"name": "Shatterpoint",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1021698230625283544/AA3307D7F95EC6C36F4E4F45FC786E85821B5BD7/",
+							"pip": 3
+						}
+					]
+				},
+				{
+					"name": "Commander Cody",
+					"title": "Marshal Commander of the 212th",
+					"image": "http://cloud-3.steamusercontent.com/ugc/1039715244308893736/115D468D79FE7630028AB1C9D4114C241FF1522D/",
+					"size": "small",
+					"type": "Trooper",
+					"points": 110,
+					"speed": 2,
+					"upgrades": {
+						"Command": 1,
+						"Training": 1,
+						"Gear": 1,
+						"Armament": 1,
+						"Grenades": 1
+					},
+					"minis": [{
+						"mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893322692719/36CE1B78678368B94938143D4CEA2773F93F363A/",
+						"diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893322728253/2649AA8D8F66C02A791A73B8AFAD18C25B40A394/"
+					}],
+					"commands": [{
+							"name": "Blast Him",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1012693415426263527/FA0558631CD51F223FD9B5DA808B16DBDBA708E5/",
+							"pip": 1
+						},
+						{
+							"name": "Good Man That Cody",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1012693415426264523/677F4DB629DFE67919953E56324A109D2E6894B4/",
+							"pip": 2
+						},
+						{
+							"name": "You Must Realize That You Are Doomed",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1039715244308843105/B2B54CEBDCEF582CFBC9E042767B663E865D1E39/",
+							"pip": 3
+						}
+					]
+				}
+			],
+			"Operative": [{
+					"name": "Ahsoka Tano",
+					"title": "Stubborn Padawan",
+					"image": "http://cloud-3.steamusercontent.com/ugc/1027324582148043033/DB24600E6EFEBFE42943DD81BFF844B41D02579E/",
+					"size": "small",
+					"type": "Trooper",
+					"points": 110,
+					"speed": 2,
+					"upgrades": {
+						"Force": 2
+					},
+					"minis": [{
+						"mesh": "http://cloud-3.steamusercontent.com/ugc/1021696350883222773/A4B8C6678A7082E70BEC3204A279752479EA5EA2/",
+						"diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696350882538520/1BB66CE6B8F58CFB17BE6A7850DC2F2A6F0A2CC3/"
+					}],
+					"commands": [{
+							"name": "Twin Lightsabers",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1027324582149195836/950AC551526DD3C2D8F444BF6B0F4F3079B6F736/",
+							"pip": 1
+						},
+						{
+							"name": "Anakin's Apprentice",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1027324582149200133/93B5F8DBEAA7A806658F6A3EC4E4F66AE8E72AA5/",
+							"pip": 2
+						},
+						{
+							"name": "Independant Adept",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1027324582149199295/972FE13C799C89EB178224A54AC535F674E8FE3D/",
+							"pip": 3
+						}
+					]
+				},
+				{
+					"name": "Commander Colt",
+					"title": "Rancor Batallion",
+					"image": "http://cloud-3.steamusercontent.com/ugc/1039715244305368736/5617C5F53AF352380250DAFB92D4349D012B7295/",
+					"size": "small",
+					"type": "Trooper",
+					"points": 90,
+					"speed": 2,
+					"upgrades": {
+						"Training": 1,
+						"Comms": 1,
+						"Gear": 2,
+						"Grenades": 1
+					},
+					"minis": [{
+						"mesh": "http://cloud-3.steamusercontent.com/ugc/1012693415431516051/4EAB6085C2D2D6C176B3C9847E2F1F228CEFE7BB/",
+						"diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693415431516248/89D5E03C721391A7CBC7930180396F3B14E5273F/"
+					}],
+					"commands": [{
+							"name": "Legacy Of A Legend",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1039715244305374875/C49A7FAB4A5C168C5C5C46ED8783C28BA1E0D2BF/",
+							"pip": 1
+						},
+						{
+							"name": "Shock Traps",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1039715244305375210/49BF819891A4DD9A34AE30B611E37F80AAF14FAD/",
+							"pip": 2
+						},
+						{
+							"name": "Shoulder to Shoulder",
+							"image": "http://cloud-3.steamusercontent.com/ugc/1039715244305375522/E79127E946C97E52DDAF97001F33F080178B2A70/",
+							"pip": 3
+						}
+					]
+				}
+			],
+			"Special Forces": [{
+					"name": "Clone Paratroopers",
+					"image": "http://cloud-3.steamusercontent.com/ugc/1012693415426248556/DF042D65136B9822D8219617FE8B4464170DDDEE/",
+					"size": "small",
+					"type": "Trooper",
+					"points": 68,
+					"speed": 2,
+					"upgrades": {
+						"Heavy Weapon": 1,
+						"Personnel": 1,
+						"Training": 1,
+						"Comms": 1,
+						"Gear": 1,
+						"Grenades": 1
+					},
+					"minis": [{
+							"mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290507071203/040CF6A943C83588994E5BD8C0DDB793F6DE9875/",
+							"diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+						},
+						{
+							"mesh": "http://cloud-3.steamusercontent.com/ugc/1012693415425506623/121AA3B4552A900E92161C97E55443D4040D7886/",
+							"diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+						},
+						{
+							"mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290507016826/760576DD3D314CB88313B54E105FB561009F8502/",
+							"diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+						},
+						{
+							"mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290506836632/AE0366ABB62BED44CC56CB5F25D5C6478592EBBF/",
+							"diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+						}
+					]
+				},
+				{
+					"name": "Republic Commandos",
+					"image": "http://cloud-3.steamusercontent.com/ugc/1005935455183150873/2D3C19065A07A457A771FFE2687B00DB5C6F3329/",
+					"size": "small",
+					"type": "Trooper",
+					"points": 100,
+					"speed": 2,
+					"upgrades": {
+						"Training": 1,
+						"Comms": 1,
+						"Gear": 1,
+						"Armament": 2,
+						"Grenades": 1
+					},
+					"minis": [{
+							"mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182355861/149A0196C96C1D78830C56F479A27BF825E9C6AB/",
+							"diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+						},
+						{
+							"mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182228456/B086CF963F81B78DCBE9E0893013169CF6454817/",
+							"diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+						},
+						{
+							"mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182280894/C546CADEC6AD3A41EFFC07CCD86AAE1EFB325BC7/",
+							"diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+						},
+						{
+							"mesh": "http://cloud-3.steamusercontent.com/ugc/1005935455182431253/81E98F267170F435E05AA7ED621A04F6476DC3B0/",
+							"diffuse": "http://cloud-3.steamusercontent.com/ugc/1005935455182206940/096195C231ECC170C0963163315EFADABC01D5D7/"
+						}
+					]
+				}
+			],
+			"Heavy": [{
+					"name": "AT-AP",
+					"image": "http://cloud-3.steamusercontent.com/ugc/1028455195041565963/B4D4CC99F6C7ABCCDFBE9B31A86D3EDB33D05479/",
+					"size": "huge",
+					"type": "Ground Vehicle",
+					"points": 165,
+					"speed": 1,
+					"upgrades": {
+						"Pilot": 1,
+						"Hardpoint": 2,
+						"Comms": 1
+					},
+					"minis": [{
+						"mesh": "http://cloud-3.steamusercontent.com/ugc/1021697756243525814/22DBD5FF8C4A887FF7DBFD977F190A7192C1D4B7/",
+						"diffuse": "http://cloud-3.steamusercontent.com/ugc/1021697756243525957/D334BA41B51D1DD235E2A5ED14F1EEACC9CD9EEF/"
+					}]
+				},
+				{
+					"name": "LA-AT/I Gunship",
+					"image": "http://cloud-3.steamusercontent.com/ugc/1012692865321763877/1F36AFA11998279CEE7526CF3399BFA70544F203/",
+					"size": "huge",
+					"type": "Repulsor Vehicle",
+					"points": 190,
+					"speed": 2,
+					"upgrades": {
+						"Pilot": 1,
+						"Hardpoint": 2,
+						"Ordnance": 1,
+						"Comms": 1
+					},
+					"minis": [{
+						"mesh": "http://cloud-3.steamusercontent.com/ugc/1028454854943442054/64C9040DF30E7980A9E9F22FD7A56D5C84052167/",
+						"diffuse": "http://cloud-3.steamusercontent.com/ugc/1028454854943501740/E509E21CEB3321071E6F56B006F24C1D919B6F3B/"
+					}]
+				}
+			]
+		}
+	},
+	"upgrades": {
+		"Armament": [{
+				"name": "DC-17m Sniper Rifle Config",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1005935455182848472/EF235E70F323D8407B9B1BFFBE634235E8334A78/",
+				"points": 20,
+				"restrictions": {
+					"include": {
+						"unit": ["Republic Commandos"]
+					}
+				}
+			},
+			{
+				"name": "DC-17m Anti-Armor Config",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1005935455182846980/D72FE95E5C83B3D1C450277B7A24CBF5304022B2/",
+				"points": 18,
+				"restrictions": {
+					"include": {
+						"unit": ["Republic Commandos"]
+					}
+				}
+			}
+		],
+		"Gear": [{
+				"name": "Bacta Auto-Dispenser",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1005935455182845185/BD708DEB755F2E2DA50E4F469960CB631A933C51/",
+				"points": 20,
+				"restrictions": {
+					"include": {
+						"unit": ["Republic Commandos"]
+					}
+				}
+			},
+			{
+				"name": "JT-12 Jetpack",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1039715244305369200/26282FFBCDB72128ACD00738CB2554A18E73626D/",
+				"points": 5,
+				"restrictions": {
+					"include": {
+						"unit": ["Commander Colt"]
+					}
+				}
+			}
+		],
+		"Hardpoint": [{
+				"name": "Ball Turrets",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1012692865321764615/CEB0C8A1747B7FB3168F96719BD4466840515D7C/",
+				"points": 20,
+				"restrictions": {
+					"include": {
+						"unit": ["LA-AT/I Gunship"]
+					}
+				}
+			},
+			{
+				"name": "Dorsal Laser Cannon",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1028455128818309136/C993BDD8EFA18262308BC247CFB178909C47734F/",
+				"points": 16,
+				"restrictions": {
+					"include": {
+						"unit": ["AT-AP"]
+					}
+				}
+			},
+			{
+				"name": "Enhanced Stabilizers",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1028455195041564845/EEBF2A46D8843035CC8AC51ED244F949163E6A4D/",
+				"points": 14,
+				"restrictions": {
+					"include": {
+						"unit": ["AT-AP"]
+					}
+				}
+			},
+			{
+				"name": "Sealed Blast Shields",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1028455728522333191/839522AE76D99749C45218C10A9A07F254BC8F33/",
+				"points": 0,
+				"restrictions": {
+					"include": {
+						"unit": ["LA-AT/I"]
+					}
+				}
+			},
+			{
+				"name": "Wing Ball Turrets",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1028455728522333191/839522AE76D99749C45218C10A9A07F254BC8F33/",
+				"points": 14,
+				"restrictions": {
+					"include": {
+						"unit": ["LA-AT/I"]
+					}
+				}
+			}
+		],
+		"Heavy Weapon": [{
+				"name": "DC-15 Paratrooper",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1012693415426250663/B94F304075796C357F691BE21C57009BFCC75534/",
+				"points": 34,
+				"restrictions": {
+					"include": {
+						"unit": ["Clone Paratroopers"]
+					}
+				},
+				"mini": {
+					"mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290506984196/E1DADD867AD088A500B4D44B6966A1BDA6F1A62A/",
+					"diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+				}
+			},
+			{
+				"name": "RSP-6 Paratrooper",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1012693415426251632/25848905F1A3D52EE0D433E0F22BA25FCD596DDA/",
+				"points": 29,
+				"restrictions": {
+					"include": {
+						"unit": ["Clone Paratroopers"]
+					}
+				},
+				"mini": {
+					"mesh": "http://cloud-3.steamusercontent.com/ugc/1012693415425547360/64A0DE5FC04770CADAEFA3F202A83EF0ACA1AABB/",
+					"diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+				}
+			}
+		]
+	},
+	"Personnel": [{
+				"name": "Clone Paratrooper",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1012693415426250209/82F0915C055C811182EECABA8737AE6CB10696BE/",
+				"points": 16,
+				"restrictions": {
+					"include": {
+						"unit": ["Clone Paratroopers"]
+					}
+				},
+				"mini": {
+					"mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290507042014/A16ED28591E7E27887C7BC119152B6AD889BFF9E/",
+					"diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+				}
+			},
+			{
+				"name": "Paratrooper Medic",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1012693415426251103/6BD8C53F70657CE1DA8FFE7722D3EB5D3E054F4B/",
+				"points": 29,
+				"restrictions": {
+					"include": {
+						"unit": ["Clone Paratroopers"]
+					}
+				},
+				"mini": {
+					"mesh": "http://cloud-3.steamusercontent.com/ugc/1012693415425401629/49D60D4EE5794A206AF8F604A68F58979CFEBC42/",
+					"diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693415425408778/BD84B4C5CAA84DDA6302739AD749CD29B1C39669/"
+				}
+			},
+			{
+				"Pilot": [{
+						"name": "Hawkeye",
+						"image": "http://cloud-3.steamusercontent.com/ugc/1012692865321766149/D34ABEF16D62117A71C471C39AFF9B9B180AA13D/",
+						"points": 10,
+						"restrictions": {
+							"include": {
+								"unit": ["LA-AT/I"]
+							}
+						}
+					},
+					{
+						"name": "Oddball",
+						"image": "http://cloud-3.steamusercontent.com/ugc/1012692865321766734/7278287660483211109F33C4284E8E18084B1EDE/",
+						"points": 10,
+						"restrictions": {
+							"include": {
+								"unit": ["LA-AT/I"]
+							}
+						}
+					},
+					{
+						"name": "Veteran Gunner",
+						"image": "http://cloud-3.steamusercontent.com/ugc/1028455195041565454/D54DB024BC55B3E042F652C058E59B83A5AC855E/",
+						"points": 6,
+						"restrictions": {
+							"include": {
+								"unit": ["AT-AP"]
+							}
+						}
+					},
+					{
+						"name": "Warthog",
+						"image": "http://cloud-3.steamusercontent.com/ugc/1012692865321767273/7D5ED8B492D040816FA990AC1F9AA965F5623309/",
+						"points": 10,
+						"restrictions": {
+							"include": {
+								"unit": ["LA-AT/I"]
+							}
+						}
+          }
+				]
+      }
+    }
