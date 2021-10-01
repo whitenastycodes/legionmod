@@ -333,7 +333,7 @@
 				"points": 0,
 				"restrictions": {
 					"include": {
-						"unit": ["LA-AT/I"]
+						"unit": ["LA-AT/I Gunship"]
 					}
 				}
 			},
@@ -343,7 +343,7 @@
 				"points": 14,
 				"restrictions": {
 					"include": {
-						"unit": ["LA-AT/I"]
+						"unit": ["LA-AT/I Gunship"]
 					}
 				}
 			}
@@ -413,7 +413,7 @@
 					"points": 10,
 					"restrictions": {
 						"include": {
-							"unit": ["LA-AT/I"]
+							"unit": ["LA-AT/I Gunship"]
 						}
 					}
 				},
@@ -423,7 +423,7 @@
 					"points": 10,
 					"restrictions": {
 						"include": {
-							"unit": ["LA-AT/I"]
+							"unit": ["LA-AT/I Gunship"]
 						}
 					}
 				},
@@ -443,7 +443,7 @@
 					"points": 10,
 					"restrictions": {
 						"include": {
-							"unit": ["LA-AT/I"]
+							"unit": ["LA-AT/I Gunship"]
 						}
 					}
 				}
