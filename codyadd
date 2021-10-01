@@ -323,9 +323,9 @@
           "upgrades": {
             "Command": 1,
             "Training": 1,
-			"Gear": 1,
+	    "Gear": 1,
             "Armament": 1,
-			"Grenades": 1,
+	    "Grenades": 1
           },
           "minis": [
             {
