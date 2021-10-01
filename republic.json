@@ -40,7 +40,7 @@
 					"title": "Marshal Commander of the 212th",
 					"image": "http://cloud-3.steamusercontent.com/ugc/1039715244308893736/115D468D79FE7630028AB1C9D4114C241FF1522D/",
 					"size": "small",
-					"type": "Trooper",
+					"type": "Clone Trooper",
 					"points": 110,
 					"speed": 2,
 					"upgrades": {
@@ -109,7 +109,7 @@
 					"title": "Rancor Batallion",
 					"image": "http://cloud-3.steamusercontent.com/ugc/1039715244305368736/5617C5F53AF352380250DAFB92D4349D012B7295/",
 					"size": "small",
-					"type": "Trooper",
+					"type": "Clone Trooper",
 					"points": 90,
 					"speed": 2,
 					"upgrades": {
@@ -144,7 +144,7 @@
 					"name": "Clone Paratroopers",
 					"image": "http://cloud-3.steamusercontent.com/ugc/1012693415426248556/DF042D65136B9822D8219617FE8B4464170DDDEE/",
 					"size": "small",
-					"type": "Trooper",
+					"type": "Clone Trooper",
 					"points": 68,
 					"speed": 2,
 					"upgrades": {
@@ -177,7 +177,7 @@
 					"name": "Republic Commandos",
 					"image": "http://cloud-3.steamusercontent.com/ugc/1005935455183150873/2D3C19065A07A457A771FFE2687B00DB5C6F3329/",
 					"size": "small",
-					"type": "Trooper",
+					"type": "Clone Trooper",
 					"points": 100,
 					"speed": 2,
 					"upgrades": {
