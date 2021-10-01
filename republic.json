@@ -369,75 +369,75 @@
 		]
 	},
 	"Personnel": [{
-				"name": "Clone Paratrooper",
-				"image": "http://cloud-3.steamusercontent.com/ugc/1012693415426250209/82F0915C055C811182EECABA8737AE6CB10696BE/",
-				"points": 16,
-				"restrictions": {
-					"include": {
-						"unit": ["Clone Paratroopers"]
-					}
-				},
-				"mini": {
-					"mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290507042014/A16ED28591E7E27887C7BC119152B6AD889BFF9E/",
-					"diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+			"name": "Clone Paratrooper",
+			"image": "http://cloud-3.steamusercontent.com/ugc/1012693415426250209/82F0915C055C811182EECABA8737AE6CB10696BE/",
+			"points": 16,
+			"restrictions": {
+				"include": {
+					"unit": ["Clone Paratroopers"]
 				}
 			},
-			{
-				"name": "Paratrooper Medic",
-				"image": "http://cloud-3.steamusercontent.com/ugc/1012693415426251103/6BD8C53F70657CE1DA8FFE7722D3EB5D3E054F4B/",
-				"points": 29,
-				"restrictions": {
-					"include": {
-						"unit": ["Clone Paratroopers"]
-					}
-				},
-				"mini": {
-					"mesh": "http://cloud-3.steamusercontent.com/ugc/1012693415425401629/49D60D4EE5794A206AF8F604A68F58979CFEBC42/",
-					"diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693415425408778/BD84B4C5CAA84DDA6302739AD749CD29B1C39669/"
+			"mini": {
+				"mesh": "http://cloud-3.steamusercontent.com/ugc/1012693290507042014/A16ED28591E7E27887C7BC119152B6AD889BFF9E/",
+				"diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693290506789283/9EBB8D09E13819F8402026EC807781965A37310A/"
+			}
+		},
+		{
+			"name": "Paratrooper Medic",
+			"image": "http://cloud-3.steamusercontent.com/ugc/1012693415426251103/6BD8C53F70657CE1DA8FFE7722D3EB5D3E054F4B/",
+			"points": 29,
+			"restrictions": {
+				"include": {
+					"unit": ["Clone Paratroopers"]
 				}
 			},
-			{
-				"Pilot": [{
-						"name": "Hawkeye",
-						"image": "http://cloud-3.steamusercontent.com/ugc/1012692865321766149/D34ABEF16D62117A71C471C39AFF9B9B180AA13D/",
-						"points": 10,
-						"restrictions": {
-							"include": {
-								"unit": ["LA-AT/I"]
-							}
+			"mini": {
+				"mesh": "http://cloud-3.steamusercontent.com/ugc/1012693415425401629/49D60D4EE5794A206AF8F604A68F58979CFEBC42/",
+				"diffuse": "http://cloud-3.steamusercontent.com/ugc/1012693415425408778/BD84B4C5CAA84DDA6302739AD749CD29B1C39669/"
+			}
+		},
+		{
+			"Pilot": [{
+					"name": "Hawkeye",
+					"image": "http://cloud-3.steamusercontent.com/ugc/1012692865321766149/D34ABEF16D62117A71C471C39AFF9B9B180AA13D/",
+					"points": 10,
+					"restrictions": {
+						"include": {
+							"unit": ["LA-AT/I"]
 						}
-					},
-					{
-						"name": "Oddball",
-						"image": "http://cloud-3.steamusercontent.com/ugc/1012692865321766734/7278287660483211109F33C4284E8E18084B1EDE/",
-						"points": 10,
-						"restrictions": {
-							"include": {
-								"unit": ["LA-AT/I"]
-							}
+					}
+				},
+				{
+					"name": "Oddball",
+					"image": "http://cloud-3.steamusercontent.com/ugc/1012692865321766734/7278287660483211109F33C4284E8E18084B1EDE/",
+					"points": 10,
+					"restrictions": {
+						"include": {
+							"unit": ["LA-AT/I"]
 						}
-					},
-					{
-						"name": "Veteran Gunner",
-						"image": "http://cloud-3.steamusercontent.com/ugc/1028455195041565454/D54DB024BC55B3E042F652C058E59B83A5AC855E/",
-						"points": 6,
-						"restrictions": {
-							"include": {
-								"unit": ["AT-AP"]
-							}
+					}
+				},
+				{
+					"name": "Veteran Gunner",
+					"image": "http://cloud-3.steamusercontent.com/ugc/1028455195041565454/D54DB024BC55B3E042F652C058E59B83A5AC855E/",
+					"points": 6,
+					"restrictions": {
+						"include": {
+							"unit": ["AT-AP"]
 						}
-					},
-					{
-						"name": "Warthog",
-						"image": "http://cloud-3.steamusercontent.com/ugc/1012692865321767273/7D5ED8B492D040816FA990AC1F9AA965F5623309/",
-						"points": 10,
-						"restrictions": {
-							"include": {
-								"unit": ["LA-AT/I"]
-							}
+					}
+				},
+				{
+					"name": "Warthog",
+					"image": "http://cloud-3.steamusercontent.com/ugc/1012692865321767273/7D5ED8B492D040816FA990AC1F9AA965F5623309/",
+					"points": 10,
+					"restrictions": {
+						"include": {
+							"unit": ["LA-AT/I"]
 						}
-          }
-				]
-      }
-    ]
+					}
+				}
+			]
+		}
+	]
 }
