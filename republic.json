@@ -209,7 +209,7 @@
 			"Heavy": [{
 					"name": "AT-AP",
 					"image": "http://cloud-3.steamusercontent.com/ugc/1028455195041565963/B4D4CC99F6C7ABCCDFBE9B31A86D3EDB33D05479/",
-					"size": "huge",
+					"size": "epic",
 					"type": "Ground Vehicle",
 					"points": 165,
 					"speed": 1,
@@ -226,7 +226,7 @@
 				{
 					"name": "LA-AT/I Gunship",
 					"image": "http://cloud-3.steamusercontent.com/ugc/1012692865321763877/1F36AFA11998279CEE7526CF3399BFA70544F203/",
-					"size": "huge",
+					"size": "epic",
 					"type": "Repulsor Vehicle",
 					"points": 190,
 					"speed": 2,
