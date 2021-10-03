@@ -1,0 +1,406 @@
+{
+	"units": {
+		"Separatist": {
+			"Commander": [
+			{
+				"name": "Darth Sidious",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1022824296877115683/27E587EFEC478808FE393FA906AFFF457B464CAA/",
+				"size": "small",
+				"type": "Trooper",
+				"points": 240,
+				"speed": 2,
+				"upgrades": {
+					"Force": 3,
+					"Command": 1,
+					"Training": 1
+				},
+				"minis": [{
+					"mesh": "http://cloud-3.steamusercontent.com/ugc/1022824153235918382/C6629B635DB0B3D04D345B83AE6A0DA0EF4CDDBC/",
+					"diffuse": "http://cloud-3.steamusercontent.com/ugc/1022824153235918510/4CE73F1347AA53974D94CADE1B77D9875694299C/"
+				}],
+				"commands": [{
+					"name": "Power! Unlimited Power!",
+					"image": "http://cloud-3.steamusercontent.com/ugc/1022824296877117963/C42D96593110AD4753CE6E89DE30FD8A85158840/",
+					"pip": 1
+				},
+				{
+					"name": "Execute Order 66",
+					"image": "http://cloud-3.steamusercontent.com/ugc/1022824296877117528/9BDD1AE15C696B19177F5065191E0E00FF6CE30C/",
+					"pip": 2
+				},
+				{
+					"name": "A Surprise, To Be Sure",
+					"image": "http://cloud-3.steamusercontent.com/ugc/1022824296877116194/AC9563775A614F834AA95911F7EBB44EA427B5AC/",
+					"pip": 3
+				}
+				]
+			}
+			],
+			"Support": [
+			{
+				"name": "LM-432 Crabdroid",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1028455728526973556/DCF67A8B1360B7D7C3FF590B78970F795A134A89/",
+				"size": "medium",
+				"type": "Ground Vehicle",
+				"points": 90,
+				"speed": 2,
+				"upgrades": {
+					"Comms": 1
+				},
+				"minis": [{
+					"mesh": "http://cloud-3.steamusercontent.com/ugc/1028455020027815604/10F9822A314D818E81C27CE272E1F52E50B6EBF3/",
+					"diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455020027816841/367B15AD633665E238815516DF8E82AC4EFAA34B/"
+				},
+				{
+					"mesh": "http://cloud-3.steamusercontent.com/ugc/1028455020027819432/1A96D256F849409A6F2157F0A896967146B7A13C/",
+					"diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455020027816841/367B15AD633665E238815516DF8E82AC4EFAA34B/"
+				}
+				]
+			},
+			{
+				"name": "Octuptarra Tri-Droid",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1012692865321756755/4F86DA4F62C36547DF8FA1DB5697D4EF5A8FCBB3/",
+				"size": "large",
+				"type": "Ground Vehicle",
+				"points": 60,
+				"speed": 2,
+				"upgrades": {
+					"Hardpoint": 1,
+					"Comms": 1
+				},
+				"minis": [{
+					"mesh": "http://cloud-3.steamusercontent.com/ugc/1028455403164598593/5A7C010653DBCE628FE44C40B0915C460164945A/",
+					"diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455403164542430/B2F1D02EDF736CAE38008DD4CEF11F2394AB18B4/"
+				}
+				]
+			},
+			{
+				"name": "SD-4K Assassin Droid",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1055478180707875650/53ED217F81E52DD2DE49933D9FF6FA02BF295EDF/",
+				"size": "large",
+				"type": "Ground Vehicle",
+				"points": 70,
+				"speed": 2,
+				"upgrades": {
+					"Pilot": 1,
+					"Hardpoint": 1,
+					"Comms": 1
+				},
+				"minis": [{
+					"mesh": "http://cloud-3.steamusercontent.com/ugc/1055478180707369319/5222F20E44E450F944F7C39E59C16359C9743A60/",
+					"diffuse": "http://cloud-3.steamusercontent.com/ugc/1055478180707368539/DDBADF81B279336EBE157E67F2ECAB3B6C8A037A/"
+				}
+				]
+			},
+			{
+				"name": "Sharpshooter Droideka",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1028455553734750386/3ADCEA61B4FC48003513956868AFB1CC74B994ED/",
+				"size": "medium",
+				"type": "Ground Vehicle",
+				"points": 110,
+				"speed": 1,
+				"upgrades": {
+					"Comms": 1
+				},
+				"minis": [{
+					"mesh": "http://cloud-3.steamusercontent.com/ugc/1028455553732191897/63312F1C4D01590EDA8153640DDF31260E7A27E2/",
+					"diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455553732192021/2D0E1C0D65555EF7A52443E3000E0979A287E077/"
+				}
+				]
+			}
+			],
+			"Heavy": [
+			{
+				"name": "Defoliator Deployment Tank",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1055477997970206100/FE81856F30F4BB116564349D7222235B1C30DE65/",
+				"size": "epic",
+				"type": "Repulsor Vehicle",
+				"points": 155,
+				"speed": 1,
+				"upgrades": {
+					"Pilot": 1,
+					"Hardpoint": 1,
+					"Ordnance": 1,
+					"Comms": 1
+				},
+				"minis": [{
+					"mesh": "http://cloud-3.steamusercontent.com/ugc/1028455893327245472/0E4E57241F7F12B74598D3D83A5D501E5586315F/",
+					"diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455893327220558/8D3108FC26DE5361995CDDB2CE24CE004F69F1C9/"
+				}
+				]
+			},
+			{
+				"name": "HMP Droid Gunship",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1012692865321754162/65D21E59939D0C11BD20F527EAF9B58C865A2964/",
+				"size": "epic",
+				"type": "Repulsor Vehicle",
+				"points": 155,
+				"speed": 2,
+				"upgrades": {
+					"Hardpoint": 1,
+					"Ordnance": 2,
+					"Comms": 1
+				},
+				"minis": [{
+					"mesh": "http://cloud-3.steamusercontent.com/ugc/1028454854943605642/C9B582DDD3BD0DD6A4C0C3AB35E91064DFF77C42/",
+					"diffuse": "http://cloud-3.steamusercontent.com/ugc/1028454854943586665/C0F6961CFFA9F8E15FB5F6B6538AE5C404DD40B4/"
+				}
+				]
+			},
+			{
+				"name": "IG-227 Hailfire-Class Droid Tank",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1028455855304896218/7ACFC5269FE254A8ED093405635C54421B22F516/",
+				"size": "huge",
+				"type": "Ground Vehicle",
+				"points": 110,
+				"speed": 3,
+				"upgrades": {
+					"Hardpoint": 1,
+					"Comms": 1
+				},
+				"minis": [{
+					"mesh": "http://cloud-3.steamusercontent.com/ugc/1028455516900984588/FD6A321B7F88D5680A3AF647417BA4BB5E74EAEF/",
+					"diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455516901771593/595DBAC62796FE3C66973A218C72DDCEC3B4B05B/"
+				}
+				]
+			},
+			{
+				"name": "Octuptarra Magna Tri-Droid",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1012692865321760178/C674F295D9E622C8A38A368DE3DFB0DD4ACBFCC6/",
+				"size": "epic",
+				"type": "Ground Vehicle",
+				"points": 180,
+				"speed": 2,
+				"upgrades": {
+					"Hardpoint": 1,
+					"Comms": 1
+				},
+				"minis": [{
+					"mesh": "http://cloud-3.steamusercontent.com/ugc/1028455403164753290/F8E53798804F16BA75E428DF4DE94D930DB0F20A/",
+					"diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455403164542430/B2F1D02EDF736CAE38008DD4CEF11F2394AB18B4/"
+				}
+				]
+			},
+			{
+				"name": "OG-9 Homing Spider Droid",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1028455553731016249/0D3C26F594F11589441A01D11C1EA26E65087C59/",
+				"size": "epic",
+				"type": "Ground Vehicle",
+				"points": 140,
+				"speed": 1,
+				"upgrades": {
+					"Comms": 1
+				},
+				"minis": {
+					"mesh": "http://cloud-3.steamusercontent.com/ugc/1028455403167048357/2192FD561FA2D05EB86CC3AE445499640E570E21/",
+					"diffuse": "http://cloud-3.steamusercontent.com/ugc/1028455403164322367/DB9DC63C0285A43C8547D724F882063227910D89/"
+				}
+			}
+			]
+		}
+	},
+	"upgrades": {
+		"Pilot": [
+		{
+			"name": "Blitz Programming",
+			"image": "http://cloud-3.steamusercontent.com/ugc/1055478180707876091/5EF22B894718E2504DB27A1434A51AEEE382F18A/",
+			"points": 12,
+			"restrictions": {
+				"include": {
+					"unit": ["SD-4K Assassin Droid"]
+				}
+			}
+		},
+		{
+			"name": "Lok Durd",
+			"image": "http://cloud-3.steamusercontent.com/ugc/1028455893327668743/C1948D7808781413CA09BC4C69142CA057AF676F/",
+			"points": 9,
+			"restrictions": {
+				"include": {
+					"unit": ["Defoliator Deployment Tank"]
+				}
+			}
+		},
+		{
+			"name": "Stealth Programming",
+			"image": "http://cloud-3.steamusercontent.com/ugc/1055478180707877427/457DB972636BBB9C2A6355609A90F2EC694EE0E1/",
+			"points": 18,
+			"restrictions": {
+				"include": {
+					"unit": ["SD-4K Assassin Droid"]
+				}
+			}
+		},
+		{
+			"name": "T-Series Tactical Droid Pilot",
+			"image": "http://cloud-3.steamusercontent.com/ugc/1028455893327669926/711B7234DE998B085C05E3E1B57FE963D956537E/",
+			"points": 5,
+			"restrictions": {
+				"include": {
+					"unit": ["Defoliator Deployment Tank"]
+				}
+			}
+		}
+		],
+		"Hardpoint": [
+		{
+			"name": "Chain-Fed Missile Launcher",
+			"image": "http://cloud-3.steamusercontent.com/ugc/1012692865321757597/2BCE3F5D817C7FCE3F71B4AD0BD59CAA321619CF/",
+			"points": 8,
+			"restrictions": {
+				"include": {
+					"unit": ["Octuptarra Tri-Droid"]
+				}
+			}
+		},
+		{
+			"name": "Chain-Fed Missile Launcher",
+			"image": "http://cloud-3.steamusercontent.com/ugc/1012692865321761073/215E7818AD5FE056811778079B9298DB69CF6BA7/",
+			"points": 20,
+			"restrictions": {
+				"include": {
+					"unit": ["Octuptarra Magna Tri-Droid"]
+				}
+			}
+		},
+		{
+			"name": "Defoliator Missile Launcher",
+			"image": "http://cloud-3.steamusercontent.com/ugc/1055477997970205493/4EB8AB788BFF70845147557ABD29F49D05ED7569/",
+			"points": 28,
+			"restrictions": {
+				"include": {
+					"unit": ["Defoliator Deployment Tank"]
+				}
+			}
+		},
+		{
+			"name": "Enhanced Targeting Computer",
+			"image": "http://cloud-3.steamusercontent.com/ugc/1028455553731013721/3397968AC0F3E9A67AC8FD961655C08165FEEA4D/",
+			"points": 8,
+			"restrictions": {
+				"include": {
+					"unit": ["IG-227 Hailfire-Class Droid Tank"]
+				}
+			}
+		},
+		{
+			"name": "Plague Carrier",
+			"image": "http://cloud-3.steamusercontent.com/ugc/1012692865321758876/7367900EAC8DD8E8A9DF6C453381B8ED94FBFBE4/",
+			"points": 15,
+			"restrictions": {
+				"include": {
+					"unit": ["Octuptarra Tri-Droid"]
+				}
+			}
+		},
+		{
+			"name": "Plague Carrier",
+			"image": "http://cloud-3.steamusercontent.com/ugc/1012692865321758876/7367900EAC8DD8E8A9DF6C453381B8ED94FBFBE4/",
+			"points": 5,
+			"restrictions": {
+				"include": {
+					"unit": ["Octuptarra Magna Tri-Droid"]
+				}
+			}
+		},
+		{
+			"name": "Probe Killer Swarm",
+			"image": "http://cloud-3.steamusercontent.com/ugc/1055478180707882449/EC10DC044D50E714B08EB38DF4A2BDDAD1768CCF/",
+			"points": 0,
+			"restrictions": {
+				"include": {
+					"unit": ["SD-4K Assassin Droid"]
+				}
+			},
+			"mini": [{
+				"mesh": "http://cloud-3.steamusercontent.com/ugc/1055478180707374292/2E17AB5EA70C93FFCBE1972EF8FDAD91A0666B41/",
+				"diffuse": "http://cloud-3.steamusercontent.com/ugc/1055478180707374292/2E17AB5EA70C93FFCBE1972EF8FDAD91A0666B41/"
+			},
+			{
+				"mesh": "http://cloud-3.steamusercontent.com/ugc/1055478180707374292/2E17AB5EA70C93FFCBE1972EF8FDAD91A0666B41/",
+				"diffuse": "http://cloud-3.steamusercontent.com/ugc/1055478180707374292/2E17AB5EA70C93FFCBE1972EF8FDAD91A0666B41/"
+			},
+			{
+				"mesh": "http://cloud-3.steamusercontent.com/ugc/1055478180707374292/2E17AB5EA70C93FFCBE1972EF8FDAD91A0666B41/",
+				"diffuse": "http://cloud-3.steamusercontent.com/ugc/1055478180707374292/2E17AB5EA70C93FFCBE1972EF8FDAD91A0666B41/"
+			}]
+		},
+		{
+			"name": "Proton Missile Launcher",
+			"image": "http://cloud-3.steamusercontent.com/ugc/1055477997970206769/427BB08B1FA77FC2DEB4A3A425BDCFED64E6BAFD/",
+			"points": 20,
+			"restrictions": {
+				"include": {
+					"unit": ["Defoliator Deployment Tank"]
+				}
+			}
+		},
+		{
+			"name": "Rapid Fire Launchers",
+			"image": "http://cloud-3.steamusercontent.com/ugc/1028455553731014158/385FBD8DD4DDF86A903A2C8AE26D7493C8ECF6A3/",
+			"points": 14,
+			"restrictions": {
+				"include": {
+					"unit": ["IG-227 Hailfire-Class Droid Tank"]
+				}
+			}
+		},
+		{
+			"name": "Transport Rack",
+			"image": "http://cloud-3.steamusercontent.com/ugc/1012692865321755061/FEF5928DAC6A4707A131B8C30E13DE64076E68F4/",
+			"points": 20,
+			"restrictions": {
+				"include": {
+					"unit": ["HMP Droid Gunship"]
+				}
+				
+			}
+			
+		}
+		],
+		"Comms": [
+		{
+			"name": "Proximity Signal",
+			"image": "http://cloud-3.steamusercontent.com/ugc/1055478180707878099/4F70069B8065B80F14F8397CADFA041C21A02BC9/",
+			"points": 6,
+			"restrictions": {
+				"include": {
+					"unit": ["SD-4K Assassin Droid"]
+				}
+			}
+		}
+		]
+	},
+	"commands": {
+		"Separatist": [{
+				"name": "Battle Algorithm",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1028455553732104538/DDA2D6254E65CE28ECE57BE12C17986089D32C55/",
+				"pip": 1
+			},
+			{
+				"name": "Mechanical Oppressors",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1028455553732105319/0B6E247DDD024ED96DAE504B70CB024DE6648FD0/",
+				"pip": 2
+			},
+			{
+				"name": "Unrelenting Fire",
+				"image": "http://cloud-3.steamusercontent.com/ugc/1028455893327672641/6711ACFDC4B402BC3A7565392BBEF83C2C45F26B/",
+				"pip": 3
+			}
+			]
+		}
+}
+				
+			
+					
+			
+			
+	
+					
+				
+					
+			
+					
+				
+					
+				
