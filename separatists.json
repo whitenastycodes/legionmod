@@ -295,7 +295,7 @@
 		},
 		{
 			"name": "Plague Carrier",
-			"image": "http://cloud-3.steamusercontent.com/ugc/1012692865321758876/7367900EAC8DD8E8A9DF6C453381B8ED94FBFBE4/",
+			"image": "http://cloud-3.steamusercontent.com/ugc/1012692865321762175/345484AF735EE3B0464A142FE1FF5CB075D8BF5F/",
 			"points": 5,
 			"restrictions": {
 				"include": {
@@ -312,7 +312,7 @@
 					"unit": ["SD-4K Assassin Droid"]
 				}
 			},
-			"mini": [{
+			"minis": [{
 				"mesh": "http://cloud-3.steamusercontent.com/ugc/1055478180707374292/2E17AB5EA70C93FFCBE1972EF8FDAD91A0666B41/",
 				"diffuse": "http://cloud-3.steamusercontent.com/ugc/1055478180707374292/2E17AB5EA70C93FFCBE1972EF8FDAD91A0666B41/"
 			},
