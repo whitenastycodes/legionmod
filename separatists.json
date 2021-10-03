@@ -312,10 +312,10 @@
 					"unit": ["SD-4K Assassin Droid"]
 				}
 			},
-			"mini": [{
+			"mini": {
 				"mesh": "http://cloud-3.steamusercontent.com/ugc/1055478180707374292/2E17AB5EA70C93FFCBE1972EF8FDAD91A0666B41/",
 				"diffuse": "http://cloud-3.steamusercontent.com/ugc/1055478180707374292/2E17AB5EA70C93FFCBE1972EF8FDAD91A0666B41/"
-			}]
+			}
 		},
 		{
 			"name": "Proton Missile Launcher",
